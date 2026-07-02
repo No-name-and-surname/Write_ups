@@ -6,7 +6,7 @@ The main goal is to document my sols to different tasks and to share experiense 
 
 ---
 
-## ❶ Categories
+## ☆ Categories
 
 | Category | Platform / Competition | Description |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ The main goal is to document my sols to different tasks and to share experiense 
 
 ---
 
-## 🌐 Wargames & Training Platforms
+## ☆ Wargames & Training Platforms
 
 Here are the primary platforms I use to sharpen my offensive security skills:
 
