@@ -11,7 +11,7 @@ The main goal is to document my sols to different tasks and to share experiense 
 | Category | Platform / Competition | Description |
 | :--- | :--- | :--- |
 | **✦ Crypto** | CryptoHack | Attacks on RSA, Diffie-Hellman, and properties of residues (Euler's criterion) |
-| **✦ Reverse** | Crackmes, ELF/PE Binaries | Static/Dynamic analysis in IDA Pro, unpacking binaries, decrypting and defeating protectors |
+| **✦ Rev** | Crackmes, ELF/PE Binaries | Static/Dynamic analysis in IDA Pro, unpacking binaries, decrypting and defeating protectors |
 | **✦ Pwn** | pwn.college, pwnable.kr | Binary exploitation, memory corruption (stack overflows, format strings), and shellcoding |
 
 ---
